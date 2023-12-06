@@ -1,4 +1,4 @@
-### Hi there 👋
+Ola!, eu sou Paulo Sergio Yamazaki. sou um Programador Front End, atualmente estou aprendendo e criando projetos com HTML, CSS  e iniciando JavaScript e React. 
 
 <!--
 **Psyamazaki777/Psyamazaki777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
